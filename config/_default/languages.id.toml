@@ -1,0 +1,61 @@
+languageCode = "id"
+languageName = "Bahasa Indonesia"
+languageDirection = "ltr"
+weight = 1
+
+title = "bayunashr"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+  # mainSections = ["section1", "section2"]
+  description = "Portofolio"
+
+[author]
+  name = "Muhammad Bayu Nashrullah"
+  image = "../assets/ava.jpg"
+  headline = "Halo👋, saya Bayu, saat ini saya sedang menempuh pendidikan S1 di UPN Veteran Jawa Timur. <br> Saya memiliki pengalaman mengembangkan back-end web menggunakan PHP🐘 dan Go🐁. <br> Kedepannya, saya berencana untuk memperluas pemahaman saya dalam bidang DevOps."
+  # bio = "A little bit about you"
+  links = [
+    { email = "mailto:nashr.bayu77@gmail.com" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+  #   { foursquare = "https://foursquare.com/username" },
+    { github = "https://github.com/bayunashr" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { google = "https://www.google.com/" },
+  #   { hashnode = "https://username.hashnode.dev" },
+  #   { instagram = "https://instagram.com/username" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+    { linkedin = "https://linkedin.com/in/bayunashr" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { medium = "https://medium.com/username" },
+  #   { microsoft = "https://www.microsoft.com/" },
+  #   { orcid = "https://orcid.org/userid" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { telegram = "https://t.me/username" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { tumblr = "https://username.tumblr.com" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { whatsapp = "https://wa.me/phone-number" },
+  #   { x-twitter = "https://twitter.com/username" },
+  #   { youtube = "https://youtube.com/username" },
+  ]
